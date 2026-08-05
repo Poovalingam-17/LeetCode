@@ -73,7 +73,7 @@ abbca | c
 ### Output
 
 ```text
-3
+2
 ```
 
 ### Explanation
