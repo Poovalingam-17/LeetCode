@@ -465,3 +465,19 @@ If you find this repository useful, feel free to:
 **Made with ☕ and Java by [Poovalingam M](https://github.com/Poovalingam-17)**
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3765-complete-prime-number](https://github.com/Poovalingam-17/LeetCode/tree/main/3765-complete-prime-number/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3765-complete-prime-number](https://github.com/Poovalingam-17/LeetCode/tree/main/3765-complete-prime-number/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3765-complete-prime-number](https://github.com/Poovalingam-17/LeetCode/tree/main/3765-complete-prime-number/) | Medium |
+<!---LeetCode Topics End-->
