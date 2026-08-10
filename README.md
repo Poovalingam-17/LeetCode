@@ -480,4 +480,12 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3765-complete-prime-number](https://github.com/Poovalingam-17/LeetCode/tree/main/3765-complete-prime-number/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Poovalingam-17/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Poovalingam-17/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 <!---LeetCode Topics End-->
