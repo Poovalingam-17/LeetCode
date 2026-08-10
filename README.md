@@ -484,6 +484,7 @@ If you find this repository useful, feel free to:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Poovalingam-17/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Poovalingam-17/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
