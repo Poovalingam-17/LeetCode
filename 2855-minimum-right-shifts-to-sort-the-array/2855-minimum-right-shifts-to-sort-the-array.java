@@ -11,7 +11,6 @@ class Solution {
     public int minimumRightShifts(List<Integer> nums) {
         List<Integer> list = new ArrayList<>(nums);
         Collections.sort(list);
-       // return same(list,new ArrayList<>(nums));
         return same(list,nums);
     }
 }
