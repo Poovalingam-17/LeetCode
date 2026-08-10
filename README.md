@@ -471,6 +471,7 @@ If you find this repository useful, feel free to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2806-account-balance-after-rounded-purchase](https://github.com/Poovalingam-17/LeetCode/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [3765-complete-prime-number](https://github.com/Poovalingam-17/LeetCode/tree/main/3765-complete-prime-number/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
