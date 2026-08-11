@@ -514,6 +514,7 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -522,4 +523,13 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
