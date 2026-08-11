@@ -472,6 +472,7 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Poovalingam-17/LeetCode/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Poovalingam-17/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3765-complete-prime-number](https://github.com/Poovalingam-17/LeetCode/tree/main/3765-complete-prime-number/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -505,4 +506,8 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/Poovalingam-17/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Poovalingam-17/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 <!---LeetCode Topics End-->
