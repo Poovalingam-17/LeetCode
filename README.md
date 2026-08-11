@@ -484,15 +484,25 @@ If you find this repository useful, feel free to:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2540-minimum-common-value](https://github.com/Poovalingam-17/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Poovalingam-17/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Poovalingam-17/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Poovalingam-17/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [2540-minimum-common-value](https://github.com/Poovalingam-17/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Poovalingam-17/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Poovalingam-17/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2540-minimum-common-value](https://github.com/Poovalingam-17/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2540-minimum-common-value](https://github.com/Poovalingam-17/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 <!---LeetCode Topics End-->
