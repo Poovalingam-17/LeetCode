@@ -486,6 +486,7 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/Poovalingam-17/LeetCode/tree/main/0506-relative-ranks/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Poovalingam-17/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2540-minimum-common-value](https://github.com/Poovalingam-17/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Poovalingam-17/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Poovalingam-17/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
@@ -503,6 +504,7 @@ If you find this repository useful, feel free to:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Poovalingam-17/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/Poovalingam-17/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Poovalingam-17/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -552,13 +554,16 @@ If you find this repository useful, feel free to:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Poovalingam-17/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Poovalingam-17/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Poovalingam-17/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 <!---LeetCode Topics End-->
