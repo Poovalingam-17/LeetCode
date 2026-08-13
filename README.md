@@ -503,6 +503,7 @@ If you find this repository useful, feel free to:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/Poovalingam-17/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Poovalingam-17/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Binary Search
@@ -548,4 +549,16 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/Poovalingam-17/LeetCode/tree/main/0506-relative-ranks/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 <!---LeetCode Topics End-->
