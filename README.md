@@ -508,6 +508,7 @@ If you find this repository useful, feel free to:
 | [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/Poovalingam-17/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Poovalingam-17/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poovalingam-17/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -547,6 +548,7 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Poovalingam-17/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poovalingam-17/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -558,6 +560,7 @@ If you find this repository useful, feel free to:
 | [1684-count-the-number-of-consistent-strings](https://github.com/Poovalingam-17/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Poovalingam-17/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poovalingam-17/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
