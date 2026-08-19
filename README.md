@@ -522,6 +522,7 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Poovalingam-17/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
@@ -532,6 +533,7 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Poovalingam-17/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Stack
@@ -542,6 +544,7 @@ If you find this repository useful, feel free to:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Poovalingam-17/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Sliding Window
