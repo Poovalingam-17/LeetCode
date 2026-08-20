@@ -495,6 +495,7 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Poovalingam-17/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0567-permutation-in-string](https://github.com/Poovalingam-17/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/Poovalingam-17/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Poovalingam-17/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 ## Linked List
@@ -504,6 +505,7 @@ If you find this repository useful, feel free to:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/Poovalingam-17/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Poovalingam-17/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/Poovalingam-17/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -550,6 +552,7 @@ If you find this repository useful, feel free to:
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/Poovalingam-17/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Poovalingam-17/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poovalingam-17/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Heap (Priority Queue)
@@ -560,6 +563,7 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0434-number-of-segments-in-a-string](https://github.com/Poovalingam-17/LeetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/Poovalingam-17/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Poovalingam-17/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Poovalingam-17/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
