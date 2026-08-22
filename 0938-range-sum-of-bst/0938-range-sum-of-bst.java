@@ -19,7 +19,6 @@ class Solution {
             return sum;
         }
         if(node.val<=high && node.val>=low){
-            System.out.println(node.val);
             sum+=node.val;
         }
         sum = sum(node.left,low,high,sum);
