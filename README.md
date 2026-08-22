@@ -471,6 +471,7 @@ If you find this repository useful, feel free to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Poovalingam-17/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Poovalingam-17/LeetCode/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Poovalingam-17/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poovalingam-17/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -583,6 +584,7 @@ If you find this repository useful, feel free to:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Poovalingam-17/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Poovalingam-17/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Counting
