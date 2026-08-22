@@ -488,6 +488,7 @@ If you find this repository useful, feel free to:
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/Poovalingam-17/LeetCode/tree/main/0506-relative-ranks/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/Poovalingam-17/LeetCode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Poovalingam-17/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Poovalingam-17/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2540-minimum-common-value](https://github.com/Poovalingam-17/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Poovalingam-17/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
