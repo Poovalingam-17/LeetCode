@@ -528,6 +528,7 @@ If you find this repository useful, feel free to:
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poovalingam-17/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Poovalingam-17/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -539,6 +540,7 @@ If you find this repository useful, feel free to:
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poovalingam-17/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Poovalingam-17/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -550,6 +552,7 @@ If you find this repository useful, feel free to:
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poovalingam-17/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/Poovalingam-17/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -583,4 +586,8 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Poovalingam-17/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/Poovalingam-17/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
