@@ -530,10 +530,12 @@ If you find this repository useful, feel free to:
 | [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Poovalingam-17/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Poovalingam-17/LeetCode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Poovalingam-17/LeetCode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -542,6 +544,7 @@ If you find this repository useful, feel free to:
 | [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Poovalingam-17/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Poovalingam-17/LeetCode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -555,6 +558,7 @@ If you find this repository useful, feel free to:
 | [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Poovalingam-17/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Poovalingam-17/LeetCode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
