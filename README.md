@@ -473,6 +473,7 @@ If you find this repository useful, feel free to:
 | ------- | ------- |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Poovalingam-17/LeetCode/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Poovalingam-17/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poovalingam-17/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3765-complete-prime-number](https://github.com/Poovalingam-17/LeetCode/tree/main/3765-complete-prime-number/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
