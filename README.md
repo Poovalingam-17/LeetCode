@@ -546,6 +546,7 @@ If you find this repository useful, feel free to:
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Poovalingam-17/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Poovalingam-17/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -568,6 +569,7 @@ If you find this repository useful, feel free to:
 | ------- | ------- |
 | [0434-number-of-segments-in-a-string](https://github.com/Poovalingam-17/LeetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Poovalingam-17/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Poovalingam-17/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Poovalingam-17/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Poovalingam-17/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -590,4 +592,8 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/Poovalingam-17/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Poovalingam-17/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
