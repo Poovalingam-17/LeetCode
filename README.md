@@ -497,6 +497,7 @@ If you find this repository useful, feel free to:
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Poovalingam-17/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Poovalingam-17/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Poovalingam-17/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/Poovalingam-17/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -598,6 +599,7 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Poovalingam-17/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Poovalingam-17/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
