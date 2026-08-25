@@ -488,6 +488,7 @@ If you find this repository useful, feel free to:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Poovalingam-17/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0506-relative-ranks](https://github.com/Poovalingam-17/LeetCode/tree/main/0506-relative-ranks/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/Poovalingam-17/LeetCode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Poovalingam-17/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -513,6 +514,7 @@ If you find this repository useful, feel free to:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Poovalingam-17/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0567-permutation-in-string](https://github.com/Poovalingam-17/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Poovalingam-17/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -589,6 +591,7 @@ If you find this repository useful, feel free to:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Poovalingam-17/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Poovalingam-17/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Poovalingam-17/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Poovalingam-17/LeetCode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -610,4 +613,8 @@ If you find this repository useful, feel free to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Poovalingam-17/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Poovalingam-17/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 <!---LeetCode Topics End-->
