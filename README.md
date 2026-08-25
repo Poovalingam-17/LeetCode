@@ -471,6 +471,7 @@ If you find this repository useful, feel free to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0667-beautiful-arrangement-ii](https://github.com/Poovalingam-17/LeetCode/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Poovalingam-17/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Poovalingam-17/LeetCode/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Poovalingam-17/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -490,6 +491,7 @@ If you find this repository useful, feel free to:
 | ------- | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Poovalingam-17/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0506-relative-ranks](https://github.com/Poovalingam-17/LeetCode/tree/main/0506-relative-ranks/) | Easy |
+| [0667-beautiful-arrangement-ii](https://github.com/Poovalingam-17/LeetCode/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/Poovalingam-17/LeetCode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Poovalingam-17/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1534-count-good-triplets](https://github.com/Poovalingam-17/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
