@@ -497,6 +497,7 @@ If you find this repository useful, feel free to:
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Poovalingam-17/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Poovalingam-17/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Poovalingam-17/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Poovalingam-17/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Poovalingam-17/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -518,6 +519,7 @@ If you find this repository useful, feel free to:
 | [2540-minimum-common-value](https://github.com/Poovalingam-17/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Poovalingam-17/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Poovalingam-17/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Poovalingam-17/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
